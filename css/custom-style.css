@@ -1,0 +1,42 @@
+.dark .toggle .togglet, .dark .toggle .toggleta {
+    color: #EEE !important;
+}
+
+#slider {
+    color: #333;
+    text-align: left;
+}
+
+#slider .heading-block h2 {
+    color: greenyellow;
+}
+
+
+.slider-parallax {
+    background: url("../img/lsg/Cover20%Opacity.jpg") no-repeat center;
+    background-size: cover;
+}
+
+footer .col_last {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.copyrights-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts {
+    margin-left: 3rem;
+}
+
+#section-services {
+    background-color: #f9f9f9;
+}
+
+#Companie .title {
+    color: greenyellow;
+    font-size: 4rem;
+}
